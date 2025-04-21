@@ -28,7 +28,7 @@
 - 🌱 Deepening expertise in **Terraform, Ansible, and CI/CD pipelines**
 - 👨‍💻 All of my projects are available at [https://github.com/danielSamule](https://github.com/danielSamule)
 - 📝 I regularly write technical articles on [https://danielluxembourg.hashnode.dev/](https://danielluxembourg.hashnode.dev/)
-- 💬 Ask me about **AWS, Docker, Kubernetes, or Infrastructure as Code**
+- 💬 Ask me about **Azure,AWS, Docker, Kubernetes, or Infrastructure as Code**
 - 📫 How to reach me: **ozoemenadan6@gmail.com**
 
 ---
@@ -85,7 +85,7 @@
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR in [project-repo] (#123)
+1. 🎉 Merged PR in 
 2. 🚀 Published new article on Hashnode
 3. ⬆️ Upgraded infrastructure components
 4. 🛠 Fixed CI pipeline issue
